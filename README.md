@@ -23,7 +23,7 @@ To run the app locally, follow these steps:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/job-listing-app.git
+git clone https://github.com/thisisnitishyadav/Job-Listing-App.git
 cd job-listing-app
 ```
 
