@@ -35,9 +35,9 @@ cd job-listing-app
 
 - Go to the `backend` directory:
   
-  ```bash
-  cd backend
-  ```
+```bash
+cd backend
+```
 
 - Install Dependencies:
  ```bash
