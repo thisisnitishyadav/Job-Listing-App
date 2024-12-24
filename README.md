@@ -29,3 +29,10 @@ To run the app locally, follow these steps:
 ```bash
 git clone https://github.com/<your-username>/job-listing-app.git
 cd job-listing-app
+
+### 2. Set up the Backend
+
+- Go to the `backend` directory:
+  
+  ```bash
+  cd backend
