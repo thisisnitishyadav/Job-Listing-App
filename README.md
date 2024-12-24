@@ -40,9 +40,9 @@ cd job-listing-app
   ```
 
 #### Install Dependencies:
-```bash
-npm install
-```
+- ```bash
+  npm install
+ ```
 
 #### Create a .env file and add the required environment variables:
 ```bash
