@@ -29,7 +29,7 @@ To run the app locally, follow these steps:
 ``bash
 git clone https://github.com/<your-username>/job-listing-app.git
 cd job-listing-app
-
+``
 
 ### 2. Set up the Backend
 
@@ -38,20 +38,20 @@ cd job-listing-app
   `bash
   cd backend
 
-#### I. Install Dependencies:
+#### Install Dependencies:
 `bash
 npm install
 
-#### II.Create a .env file and add the required environment variables:
+#### Create a .env file and add the required environment variables:
 `bash
 touch .env
 
 ##### Add env variables:
-''bash
+``bash
 MONGO_URI=your-mongo-database-url
 PORT=5001
 
 #### Start Server
-`bash
+```bash
 npm run dev
 
