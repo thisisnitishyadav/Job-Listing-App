@@ -39,23 +39,23 @@ cd job-listing-app
   cd backend
   ```
 
-#### Install Dependencies:
-- ```bash
+- Install Dependencies:
+ ```bash
   npm install
  ```
 
-#### Create a .env file and add the required environment variables:
+- Create a .env file and add the required environment variables:
 ```bash
 touch .env
 ```
 
-##### Add env variables:
+- Add env variables:
 ```bash
 MONGO_URI=your-mongo-database-url
 PORT=5001
 ```
 
-#### Start the Server
+- Start the Server
 ```bash
 npm run dev
 ```
