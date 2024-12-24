@@ -59,4 +59,28 @@ PORT=5001
 ```bash
 npm run dev
 ```
+### 3. Setup Frontend
 
+- Go to the `frontend` directory:
+```bash
+cd frontend
+```
+
+- Install Dependencies:
+ ```bash
+  npm install
+ ```
+
+- Create a .env file and environment variable:
+```bash
+touch .env
+```
+
+- Add env variables:
+```bash
+NEXT_PUBLIC_APP_URL=http://localhost:5001
+```
+- Start the frontend
+```bash
+npm run dev
+```
