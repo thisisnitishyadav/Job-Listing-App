@@ -3,10 +3,6 @@
 A simple, yet powerful job listing app where job seekers can browse and apply for jobs. This application is designed to streamline the hiring process, providing a user-friendly platform for job seekers.
 
 ## Features
-
-- **Employer Features**:
-  - Post job openings with descriptions, requirements, and other details.
-  - View applicants who have applied to their jobs.
   
 - **Job Seeker Features**:
   - Browse job listings by category, location, and other filters.
